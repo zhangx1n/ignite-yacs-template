@@ -1,7 +1,8 @@
-# encoding: utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
-@author:  sherlock
-@contact: sherlockliao01@gmail.com
+@Author : Zhang Xin
+@Contact: xinzhang_hp@163.com
 """
 
 from .build import build_transforms
